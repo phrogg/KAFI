@@ -1,6 +1,4 @@
-<img src="https://img.shields.io/github/release/phrogg/KAFI.svg?logo=github" />   
-[![GitHub license](https://img.shields.io/github/license/phrogg/KAFI.svg)](https://github.com/phrogg/KAFI/blob/master/LICENSE)   
-[![GitHub issues](https://img.shields.io/github/issues/phrogg/KAFI.svg)](https://GitHub.com/phrogg/KAFI/issues/)
+<img src="https://img.shields.io/github/release/phrogg/KAFI.svg?logo=github" />   [![GitHub license](https://img.shields.io/github/license/phrogg/KAFI.svg)](https://github.com/phrogg/KAFI/blob/master/LICENSE)   [![GitHub issues](https://img.shields.io/github/issues/phrogg/KAFI.svg)](https://GitHub.com/phrogg/KAFI/issues/)
 
 
 # KAFI
