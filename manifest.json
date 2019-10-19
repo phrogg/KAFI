@@ -2,12 +2,17 @@
   "manifest_version": 2,
   "name": "eBayKleinanzeigenHelper",
   "description": "Helping on Kleinanzeigen.",
-  "version": "0.1",
+  "version": "0.2",
   "author": "Phil Roggenbuck <ceo@roggstar.eu>",
 
   "icons": {
-    "64": "icons/kafi-64.png",
-    "128": "icons/kafi-128.png"
+    "36": "icons/Icon-36.png",
+    "48": "icons/Icon-48.png",
+    "72": "icons/Icon-72.png",
+    "96": "icons/Icon-96.png",
+    "144": "icons/Icon-144.png",
+    "192": "icons/Icon-192.png",
+    "512": "icons/Icon-512.png"
   },
 
   "content_scripts": [
