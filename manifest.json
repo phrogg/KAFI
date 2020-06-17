@@ -2,8 +2,8 @@
   "manifest_version": 2,
   "name": "eBayKleinanzeigenHelper",
   "description": "Helping on Kleinanzeigen.",
-  "version": "0.2",
-  "author": "Phil Roggenbuck <ceo@roggstar.eu>",
+  "version": "0.3",
+  "author": "Phil Roggenbuck <me@phrogg.de>",
 
   "icons": {
     "36": "icons/Icon-36.png",
@@ -20,5 +20,13 @@
       "matches": ["*://*.ebay-kleinanzeigen.de/s-anzeige/*"],
       "js": ["injectme.js"]
     }
+  ],
+
+  "options_ui": {
+    "page": "options.html",
+    "chrome_style": true
+  },
+  "permissions": [
+    "storage"
   ]
 }
